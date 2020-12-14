@@ -1,0 +1,20 @@
+bookdown::gitbook:
+  css: [css/style.css, css/thinkr.css, css/style_gitbook.css] 
+  split_by: section+number
+  config:
+    toc:
+      before: |
+        <li><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_la_Universidad_Nacional_de_Colombia.svg/1200px-Logotipo_de_la_Universidad_Nacional_de_Colombia.svg.png"  height=50 width="50"> <a href="./">Boletín Estadístico</a></center></li>
+      after: |
+        <li><center><a href="http://orinoquia.unal.edu.co/" target="blank"> Universidad Nacional de Colombia </br> Sede Orinoquía</a></center></li>
+    download: ["pdf", "epub"]
+  includes:
+    after_body: [docs/libs/unal/html/scripts.html, logo/gitbook_logo.html]
+    in_header: docs/libs/unal/html/style.html
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+bookdown::epub_book: default

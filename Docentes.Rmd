@@ -1,0 +1,90 @@
+# Docentes {#Doc}
+
+Este capítulo presenta el consolidado de las principales características asociadas a la información estadística oficial de los docentes de carrera adscritos a la Sede Orinoquía de la Universidad Nacional de Colombia así como la información estadística del personal que apoya las labores académicas en esta sede y que se encuentran vinculados a través de otras formas de contratación.
+
+A continuación, se presenta una breve descripción de las secciones que hacen parte de este capítulo así como la ubicación del sitio web en donde se presentan las definiciones, los estándares y las codificaciones/clasificaciones que hacen parte de la información acá contenida (*metadatos*) y cuya exploración y lectura, sin duda, facilitará el entendimiento de las cifras asociadas, principalmente, a la población de docentes de carrera en esta sede de la Universidad. 
+
+
+<h3>**Secciones**</h3> 
+
+
+* [Docentes de carrera](#DocCar): contiene la información oficial del total de docentes de carrera adscritos a la Sede Orinoquía de la Universidad Nacional de Colombia y que fueron vinculados mediante concurso profesoral abierto y público o por reingreso a la carrera docente.
+
+
+* [Docentes PEAMA](#DocPEAMA): contiene la información oficial del total de .....
+
+* [Profesionales de apoyo PEAMA](#DocApo): contiene la información oficial del total de .....
+
+
+<h3>**Metadatos**</h3>
+
+La construcción de las cifras oficiales de docentes de carrera en la Sede Orinoquía, las definiciones que hacen parte de esta categoría así como las codificaciones y clasificaciones aquí empleadas se encuentran contenidas en la sección **Docentes** del capítulo de *Metadatos* de las cifras oficiales generales que hacen parte de la página de [estadísticas](http://estadisticas.unal.edu.co/home/) de la Universidad Nacional de Colombia. Invitamos a los lectores a explorar y conocer estos metadatos los cuales, además de orientar y facilitar el entendimiento de la información de docentes de carrera, se encuentran disponibles en el siguiente enlace.
+
+* [Metadatos Cifras Oficiales Universidad Nacional de Colombia](http://estadisticas.unal.edu.co/menu-principal/cifras-generales/metadatos/cifras-generales/)
+
+
+## Docentes de carrera {#DocCar}
+
+A continuación, se presentan las principales características asociadas a los docentes de carrera de la **Sede Orinoquía** de la Universidad Nacional de Colombia. En específico, se presenta la evolución histórica de los docentes desde diferentes perspectivas: general, sexo, grupos de edad y máximo nivel de formación. Para cada una de las variables analizadas se presenta la evolución histórica (*serie de tiempo*) así como el comportamiento actual (*estado actual*) derivado de las últimas mediciones disponibles.
+
+<br>
+<blockquote>
+<p><strong><p style="color:red;">Nota: Número de docentes de carrera </p></strong><br>
+El número de docentes de carrera en la Sede Orinoquía de la Universidad es bajo. Este hecho implica leer con precaución las frecuencias relativas (porcentajes) presentes en algunos de los resultados que se presentan a continuación. Estos, por por los bajos tamaños poblacionales existentes, son altamentente inestables/volátiles.
+</p>
+</blockquote>
+<br>
+
+### Evolución Histórica
+
+A continuación, la Figura \@ref(fig:F1DocCar), presenta la evolución histórica -*desde el periodo 20082*-, del total de docentes de carrera de la **Sede Orinoquía**.
+
+```{r F1DocCar, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Talento Humano'}
+SERIE_DOC_CAR
+```
+<br>
+
+### Información por sexo 
+
+A continuación, las figuras \@ref(fig:F2DocCar) y \@ref(fig:F3DocCar) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de docentes de carrera de la **Sede Orinoquía** según el sexo biológico.
+
+
+```{r F2DocCar, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Talento Humano'}
+SEXO_SERIE_DOC_CAR
+```
+
+```{r F3DocCar, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Talento Humano'}
+SEXO_ACTUAL_DOC_CAR
+```
+<br>
+
+### Información por edad
+
+A continuación, las figuras \@ref(fig:F4DocCar) y \@ref(fig:F5DocCar) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de docentes de carrera de la **Sede Orinoquía** según grupos de edad.
+
+
+```{r F4DocCar, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Talento Humano'}
+EDAD_SERIE_DOC_CAR
+```
+
+```{r F5DocCar, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Talento Humano'}
+EDAD_ACTUAL_DOC_CAR
+```
+<br>
+
+### Información por máximo nivel de formación
+
+A continuación, las figuras \@ref(fig:F6DocCar) y \@ref(fig:F7DocCar) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de docentes de carrera de la **Sede Orinoquía** según el máximo nivel de formación.
+
+```{r F6DocCar, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Talento Humano'}
+FORMACION_SERIE_DOC_CAR
+```
+
+```{r F7DocCar, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Talento Humano'}
+FORMACION_ACTUAL_DOC_CAR
+```
+
+
+## Docentes PEAMA {#DocPEAMA}
+
+## Profesionales de apoyo PEAMA {#DocApo}

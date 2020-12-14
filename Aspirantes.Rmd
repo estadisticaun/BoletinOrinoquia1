@@ -1,0 +1,369 @@
+# Aspirantes y Admitidos {#Aspirantes}
+
+Este capítulo presenta el consolidado de las principales características asociadas a la información estadística oficial de los aspirantes y admitidos a pregrado y postgrado en la sede Orinoquía de la Universidad Nacional de Colombia. A continuación, se presenta una breve descripción de las secciones que hacen parte de este capítulo así como la ubicación del sitio web en donde se presentan las definiciones, los estándares y las codificaciones/clasificaciones que hacen parte de la información acá contenida (*metadatos*) y cuya exploración y lectura, sin duda, facilitará el entendimiento de las cifras asociadas a las poblaciones de aspirantes y admitidos en esta sede de la Universidad. 
+
+
+<h3>**Secciones**</h3> 
+
+
+El proceso de formación en pregrado en la Sede Orinoquía se da a la luz de los lineamientos definidos en el Programa Especial de Admisión y Movilidad Académica [PEAMA](#peama); en contraste, la formación postgradual en en esta sede, se rige bajo los parámetros nacionales que orientan este nivel de formación. 
+
+* [Aspirantes a pregrado](#AspPre): contiene la información oficial del total de aspirantes a pregrado en la Sede Orinoquía de la Universidad Nacional de Colombia y que se incribieron a través del Programa Especial de Admisión y Movilidad Académica [PEAMA](#peama).
+
+* [Admitidos a pregrado](#AdmPre): contiene la información oficial del total de admitidos a pregrado en la Sede Orinoquía de la Universidad Nacional de Colombia y que se incribieron a través del Programa Especial de Admisión y Movilidad Académica [PEAMA](#peama).
+
+* [Aspirantes a postgrado](#AspPos): contiene la información oficial del total de aspirantes a los programas de postgrado adscritos a la Sede Orinoquía de la Universidad Nacional de Colombia.
+
+* [Admitidos a postgrado](#AdmPos): contiene la información oficial del total de aspirantes admitidos a los programas de postgrado adscritos a la Sede Orinoquía de la Universidad Nacional de Colombia.
+
+<h3>**Metadatos**</h3>
+
+La construcción de las cifras oficiales de aspirantes y admitidos a la Sede Orinoquía, las definiciones que hacen parte de estas así como las codificaciones y clasificaciones aquí empleadas se encuentran contenidas en la sección **Aspirantes y Admitidos** del capítulo de *Metadatos* de las cifras oficiales generales que hacen parte de la página de [estadísticas](http://estadisticas.unal.edu.co/home/) de la Universidad Nacional de Colombia. Invitamos a los lectores a explorar y conocer estos metadatos los cuales, además de orientar y facilitar el entendimiento de la información acá expuesta, se encuentran disponibles en el siguiente enlace.
+
+* [Metadatos Cifras Oficiales Universidad Nacional de Colombia](http://estadisticas.unal.edu.co/menu-principal/cifras-generales/metadatos/cifras-generales/)
+
+
+## Aspirantes a pregrado {#AspPre}
+
+A continuación, se presentan las principales características asociadas a los aspirantes a pregrado de la **Sede Orinoquía** de la Universidad Nacional de Colombia. En específico, se presenta la evolución histórica de los aspirantes a pregrado desde diferentes perspectivas: general, sexo, grupos de edad,  estrato socioeconómico, tasa de absorción y departamentos y municipios de residencia de los mismos. Para cada una de las variables analizadas se presenta la evolución histórica (*serie de tiempo*) así como el comportamiento actual (*estado actual*) derivado de las últimas mediciones disponibles.
+
+
+### Evolución Histórica
+
+A continuación, la Figura \@ref(fig:F1AspPre), presenta la evolución histórica -*desde el periodo 20082*-, del total de aspirantes a pregrado en la sede.
+
+```{r F1AspPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+SERIE_ASP_PRE
+```
+<br>
+
+### Información por sexo 
+
+A continuación, las figuras \@ref(fig:F2AspPre) y \@ref(fig:F3AspPre) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de aspirantes a pregrado según el sexo biológico.
+
+```{r F2AspPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+SEXO_SERIE_ASP_PRE
+```
+<br>
+```{r F3AspPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+SEXO_ACTUAL_ASP_PRE
+```
+
+<br>
+
+### Información por edad 
+
+A continuación, las figuras \@ref(fig:F4AspPre) y \@ref(fig:F5AspPre) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de aspirantes a pregrado por grupos de edad.
+
+```{r F4AspPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+EDAD_SERIE_ASP_PRE
+```
+<br>
+```{r F5AspPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+EDAD_ACTUAL_ASP_PRE
+```
+
+<br>
+
+### Información por estrato socioeconómico 
+
+A continuación, las figuras \@ref(fig:F6AspPre) y \@ref(fig:F7AspPre) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de aspirantes a pregrado según el estrato socioeconómico de las viviendas en donde estos residen.
+
+```{r F6AspPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+ESTRATO_SERIE_ASP_PRE
+```
+<br>
+```{r F7AspPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+ESTRATO_ACTUAL_ASP_PRE
+```
+
+<br>
+
+### Tasa de absorción 
+
+A continuación, las figuras \@ref(fig:F8AspPre) y \@ref(fig:F9AspPre) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de aspirantes admitidos a pregrado en la Sede Orinoquía de la Universidad Nacional de Colombia.
+
+```{r F8AspPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+ADMITIDO_SERIE_ASP_PRE
+```
+<br>
+```{r F9AspPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+ADMITIDO_ACTUAL_ASP_PRE
+```
+<br>
+
+### Tablas cifras agregadas
+
+A continuación se presentan, a través de tablas, los agregados/consolidados históricos del total de aspirantes a pregrado de la Sede Orinoquía por departamentos y municipios de procedencia.
+
+Los interesados en *imprimir*, *copiar* o *descargar* estas cifras, pueden hacerlo a través de las múltiples opciones que se ofrecen en la parte superior izquierda de cada una de las tablas que se presentan a continuación (Copiar, CSV, Excel, PDF e Imprimir). Así mismo estas tablas, dada su naturaleza web, permiten filtrar los resultados por aquellas variables de interés.
+
+
+#### Departamentos y municipios de procedencia
+
+A continuación, la tabla \@ref(fig:F10AspPre) presenta el acumulado **histórico**, por **años y semestres**, de los aspirantes a pregrado por departamentos y municipios de procedencia en la Sede Orinoquía. 
+
+```{r F10AspPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+TABLA_MUNICIPIOS_ASP_PRE
+```
+
+## Admitidos a pregrado {#AdmPre}
+
+A continuación, se presentan las principales características asociadas a los admitidos a pregrado de la Sede Orinoquía de la Universidad Nacional de Colombia. En específico, se presenta la evolución histórica de los admitidos a pregrado desde diferentes perspectivas: general, sexo, grupos de edad,  estrato socioeconómico,  departamentos y municipios de residencia así como los programas académicos, las facultades y las sedes andinas en las que estos se encuentran ubicados. Para cada una de las variables analizadas se presenta la evolución histórica (*serie de tiempo*) así como el comportamiento actual (*estado actual*) derivado de las últimas mediciones disponibles.
+
+
+### Evolución Histórica
+
+A continuación, la Figura \@ref(fig:F1AdmPre), presenta la evolución histórica -*desde el periodo 20082*-, del total de admitidos a pregrado en la sede.
+
+```{r F1AdmPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+SERIE_ADM_PRE
+```
+<br>
+
+### Información por sexo 
+
+A continuación, las figuras \@ref(fig:F2AdmPre) y \@ref(fig:F3AdmPre) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de admitidos a pregrado según el sexo biológico.
+
+```{r F2AdmPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+SEXO_SERIE_ADM_PRE
+```
+<br>
+```{r F3AdmPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+SEXO_ACTUAL_ADM_PRE
+```
+
+<br>
+
+### Información por edad 
+
+A continuación, las figuras \@ref(fig:F4AdmPre) y \@ref(fig:F5AdmPre) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de admitidos a pregrado por grupos de edad.
+
+```{r F4AdmPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+EDAD_SERIE_ADM_PRE
+```
+<br>
+```{r F5AdmPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+EDAD_ACTUAL_ADM_PRE
+```
+
+<br>
+
+### Información por estrato socioeconómico 
+
+A continuación, las figuras \@ref(fig:F6AdmPre) y \@ref(fig:F7AdmPre) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de admitidos a pregrado según el estrato socioeconómico de las viviendas en donde estos residen.
+
+```{r F6AdmPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+ESTRATO_SERIE_ADM_PRE
+```
+<br>
+```{r F7AdmPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+ESTRATO_ACTUAL_ADM_PRE
+```
+
+<br>
+
+### Tablas cifras agregadas
+
+A continuación se presentan, a través de tablas, los agregados/consolidados históricos del total de admitidos a pregrado de la Sede Orinoquía por departamentos y municipios de procedencia, así como los programas académicos y las sedes andinas a las que estos pertecenecen.
+
+Los interesados en *imprimir*, *copiar* o *descargar* estas cifras, pueden hacerlo a través de las múltiples opciones que se ofrecen en la parte superior izquierda de cada una de las tablas que se presentan a continuación (Copiar, CSV, Excel, PDF e Imprimir). Así mismo estas tablas, dada su naturaleza web, permiten filtrar los resultados por aquellas variables de interés.
+
+
+#### Departamentos y municipios de procedencia.
+
+A continuación, la tabla \@ref(fig:F8AdmPre) presenta el acumulado **histórico** por **años y semestres** en la Sede Orinoquía de los admitidos a pregrado por departamentos y municipios de procedencia. 
+
+```{r F8AdmPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+TABLA_MUNICIPIOS_ADM_PRE
+```
+<br>
+
+#### Programas académicos de pregrado
+
+A continuación, la tabla \@ref(fig:F9AdmPre) presenta el acumulado **histórico** por **años y semestres** en la Sede Orinoquía de los admitidos a pregrado por programas académicos y sedes andinas en las que estos se encuentran adscritos. 
+
+```{r F9AdmPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
+TABLA_CARRERAS_ADM_PRE
+```
+
+<!-- ## Aspirantes a postgrado {#AspPos} -->
+
+<!-- A continuación se presentan las principales características asociadas a los aspirantes a postgrado de la **Sede Orinoquía** de la Universidad Nacional de Colombia. En específico, se presenta la evolución histórica de los aspirantes a postgrado desde diferentes perspectivas: general, sexo, grupos de edad,  estrato socioeconómico, tasa de absorción y departamentos y municipios de residencia de los mismos. Para cada una de las variables analizadas se presenta la evolución histórica (*serie de tiempo*) así como el comportamiento actual (*estado actual*) derivado de las últimas mediciones disponibles. -->
+
+<!-- <br> -->
+<!-- <blockquote> -->
+<!-- <p><strong><p style="color:red;">Nota: Número de aspirantes a postgrado </p></strong><br> -->
+<!-- El número de aspirantes a postgrado en la Sede Orinoquía de la Universidad es bajo o cero para algunos periodos. Este hecho implica leer con precaución las frecuencias relativas (porcentajes) presentes en algunos de los resultados que se presentan a continuación. Estos, por por los bajos tamaños poblacionales existentes, son altamentente inestables/volátiles. -->
+<!-- </p> -->
+<!-- </blockquote> -->
+<!-- <br> -->
+
+<!-- ### Evolución Histórica -->
+
+<!-- A continuación, la Figura \@ref(fig:F1AspPos), presenta la evolución histórica -*desde el periodo 20081*-, del total de aspirantes a postgrado en la sede. -->
+
+<!-- ```{r F1AspPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- SERIE_ASP_POS -->
+<!-- ``` -->
+<!-- <br> -->
+
+<!-- ### Información por sexo  -->
+
+<!-- A continuación, las figuras \@ref(fig:F2AspPos) y \@ref(fig:F3AspPos) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de aspirantes a postgrado según el sexo biológico. -->
+
+<!-- ```{r F2AspPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- SEXO_SERIE_ASP_POS -->
+<!-- ``` -->
+<!-- <br> -->
+<!-- ```{r F3AspPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- SEXO_ACTUAL_ASP_POS -->
+<!-- ``` -->
+
+<!-- <br> -->
+
+<!-- ### Información por edad  -->
+
+<!-- A continuación, las figuras \@ref(fig:F4AspPos) y \@ref(fig:F5AspPos) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de aspirantes a postgrado por grupos de edad. -->
+
+<!-- ```{r F4AspPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- EDAD_SERIE_ASP_POS -->
+<!-- ``` -->
+<!-- <br> -->
+<!-- ```{r F5AspPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- EDAD_ACTUAL_ASP_POS -->
+<!-- ``` -->
+
+<!-- <br> -->
+
+<!-- ### Información por estrato socioeconómico  -->
+
+<!-- A continuación, las figuras \@ref(fig:F6AspPos) y \@ref(fig:F7AspPos) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de aspirantes a postgrado según el estrato socioeconómico de las viviendas en donde estos residen. -->
+
+<!-- ```{r F6AspPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- ESTRATO_SERIE_ASP_POS -->
+<!-- ``` -->
+<!-- <br> -->
+<!-- ```{r F7AspPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- ESTRATO_ACTUAL_ASP_POS -->
+<!-- ``` -->
+
+<!-- <br> -->
+
+<!-- ### Tasa de absorción  -->
+
+<!-- A continuación, las figuras \@ref(fig:F8AspPos) y \@ref(fig:F9AspPos) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de aspirantes admitidos a postgrado en la Sede Orinoquía de la Universidad Nacional de Colombia. -->
+
+<!-- ```{r F8AspPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- ADMITIDO_SERIE_ASP_POS -->
+<!-- ``` -->
+<!-- <br> -->
+<!-- ```{r F9AspPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- ADMITIDO_ACTUAL_ASP_POS -->
+<!-- ``` -->
+<!-- <br> -->
+
+<!-- ### Tablas cifras agregadas -->
+
+<!-- A continuación se presentan, a través de tablas, los agregados/consolidados históricos del total de aspirantes a postgrado de la Sede Orinoquía por departamentos, municipios de procedencia y programas académicos a los que estos fueron admitidos. -->
+
+<!-- Los interesados en *imprimir*, *copiar* o *descargar* estas cifras, pueden hacerlo a través de las múltiples opciones que se ofrecen en la parte superior izquierda de cada una de las tablas que se presentan a continuación (Copiar, CSV, Excel, PDF e Imprimir). Así mismo estas tablas, dada su naturaleza web, permiten filtrar los resultados por aquellas variables de interés. -->
+
+
+<!-- #### Departamentos y municipios de procedencia -->
+
+<!-- A continuación, la tabla \@ref(fig:F10AspPos) presenta el acumulado **histórico**, por **años y semestres**, de los aspirantes a postgrado por departamentos y municipios de procedencia en la Sede Orinoquía.  -->
+
+<!-- ```{r F10AspPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- TABLA_MUNICIPIOS_ASP_POS -->
+<!-- ``` -->
+
+
+<!-- ## Admitidos a postgrado {#AdmPos} -->
+
+<!-- A continuación se presentan las principales características asociadas a los admitidos a postgrado de la **Sede Orinoquía** de la Universidad Nacional de Colombia. En específico, se presenta la evolución histórica de los admitidos a postgrado desde diferentes perspectivas: general, sexo, grupos de edad,  estrato socioeconómico y departamentos y municipios de residencia de los mismos. Para cada una de las variables analizadas se presenta la evolución histórica (*serie de tiempo*) así como el comportamiento actual (*estado actual*) derivado de las últimas mediciones disponibles. -->
+
+
+<!-- <br> -->
+<!-- <blockquote> -->
+<!-- <p><strong><p style="color:red;">Nota: Número de admitidos a postgrado </p></strong><br> -->
+<!-- El número de admitidos a postgrado en la Sede Orinoquía de la Universidad es bajo o cero para algunos periodos. Este hecho implica leer con precaución las frecuencias relativas (porcentajes) presentes en algunos de los resultados que se presentan a continuación. Estos, por los bajos tamaños poblacionales existentes, son altamentente inestables/volátiles. -->
+<!-- </p> -->
+<!-- </blockquote> -->
+<!-- <br> -->
+
+<!-- ### Evolución Histórica -->
+
+<!-- A continuación, la Figura \@ref(fig:F1AdmPos), presenta la evolución histórica -*desde el periodo 20081*-, del total de admitidos a postgrado en la sede. -->
+
+<!-- ```{r F1AdmPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- SERIE_ADM_POS -->
+<!-- ``` -->
+<!-- <br> -->
+
+<!-- ### Información por sexo  -->
+
+<!-- A continuación, las figuras \@ref(fig:F2AdmPos) y \@ref(fig:F3AdmPos) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de admitidos a postgrado según el sexo biológico. -->
+
+<!-- ```{r F2AdmPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- SEXO_SERIE_ADM_POS -->
+<!-- ``` -->
+<!-- <br> -->
+<!-- ```{r F3AdmPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- SEXO_ACTUAL_ADM_POS -->
+<!-- ``` -->
+
+<!-- <br> -->
+
+<!-- ### Información por edad  -->
+
+<!-- A continuación, las figuras \@ref(fig:F4AdmPos) y \@ref(fig:F5AdmPos) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de admitidos a postgrado por grupos de edad. -->
+
+<!-- ```{r F4AdmPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- EDAD_SERIE_ADM_POS -->
+<!-- ``` -->
+<!-- <br> -->
+<!-- ```{r F5AdmPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- EDAD_ACTUAL_ADM_POS -->
+<!-- ``` -->
+
+<!-- <br> -->
+
+<!-- ### Información por estrato socioeconómico  -->
+
+<!-- A continuación, las figuras \@ref(fig:F6AdmPos) y \@ref(fig:F7AdmPos) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de admitidos a postgrado según el estrato socioeconómico de las viviendas en donde estos residen. -->
+
+<!-- ```{r F6AdmPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- ESTRATO_SERIE_ADM_POS -->
+<!-- ``` -->
+<!-- <br> -->
+<!-- ```{r F7AdmPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- ESTRATO_ACTUAL_ADM_POS -->
+<!-- ``` -->
+
+<!-- <br> -->
+
+<!-- ### Tablas cifras agregadas -->
+
+<!-- A continuación se presentan, a través de tablas, los agregados/consolidados históricos del total de admitidos a postgrado de la Sede Orinoquía por departamentos y municipios de procedencia, así como los programas académicos a los que estos fueron admitidos. -->
+
+<!-- Los interesados en *imprimir*, *copiar* o *descargar* estas cifras, pueden hacerlo a través de las múltiples opciones que se ofrecen en la parte superior izquierda de cada una de las tablas que se presentan a continuación (Copiar, CSV, Excel, PDF e Imprimir). Así mismo estas tablas, dada su naturaleza web, permiten filtrar los resultados por aquellas variables de interés. -->
+
+
+<!-- #### Departamentos y municipios de procedencia. -->
+
+<!-- A continuación, la tabla \@ref(fig:F8AdmPos) presenta el acumulado **histórico** por **años y semestres** en la Sede Orinoquía de los admitidos a postgrado por departamentos y municipios de procedencia.  -->
+
+<!-- ```{r F8AdmPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- TABLA_MUNICIPIOS_ADM_POS -->
+<!-- ``` -->
+<!-- <br> -->
+
+<!-- #### Programas académicos de pregrado -->
+
+<!-- A continuación, la tabla \@ref(fig:F9AdmPos) presenta el acumulado **histórico** por **años y semestres** en la Sede Orinoquía de los admitidos a postgrado por programas académicos.  -->
+
+<!-- ```{r F9AdmPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'} -->
+<!-- TABLA_CARRERAS_ADM_POS -->
+<!-- ``` -->
+

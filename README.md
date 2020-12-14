@@ -1,0 +1,1 @@
+Boletín Estadístico de la Sede [Amazonía](http://amazonia.unal.edu.co/) de la [Universidad Nacional de Colombia](http://unal.edu.co/). Este boletín hace parte integral del [sistema estadístico](http://estadisticas.unal.edu.co/home/) de la Universidad.

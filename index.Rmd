@@ -1,0 +1,46 @@
+--- 
+title: "Boletín Estadístico Sede Orinoquía"
+author: "<a href='http://unal.edu.co/' target='blank'> Universidad Nacional de Colombia</a> </br>  <a href='http://orinoquia.unal.edu.co/' target='blank'> Sede Orinoquía</a>"
+date: "`r format(Sys.Date(), 'Última actualización: %d de %B de %Y')`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+---
+
+# Portada{-}
+
+
+<html>
+<center>
+<iframe width="580" height="320" src="https://www.youtube.com/embed/seEIJvhRPfg?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</center>
+</html>
+
+<br/>
+
+<h3>**Comentarios, sugerencias e inquietudes**</h3> 
+
+**CLAUDIA PATRICIA JOYA JOYA**<br/>
+Asesora Dirección<br/>
+Email: cpjoyaj@unal.edu.co<br/>
+Teléfono: (1) 3165000 extensión 34809<br/>
+
+**GEOVANNY MANZANO SANCHEZ**<br/>
+Profesional Sistema Integrado de Gestión Académica Administrativa y Ambiental - SIGA<br/>
+Email: gmanzanos@unal.edu.co<br/>
+Teléfono: (1) 3165000 extensión 29721
+
+<h2>**Sistema Estadístico UNAL**</h2> 
+
+El Boletín Estadísco de la Sede Amazonía de la Universidad Nacional de Colombia hace parte integral del *sistema estadístico institucional*. Para aquellos interesados en conocer la información estadística general de la Universidad así como de las demás sedes que hacen parte de esta institución, los invitamos a ingresar al sitio web de [estadísticas institucionales](http://estadisticas.unal.edu.co/home/) y a conocer los porqués de este sitio expresados en el siguiente video institucional.
+
+<br/>
+
+<html>
+<center>
+<iframe width="580" height="320" src="https://www.youtube.com/embed/D1228EikvoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+</html>

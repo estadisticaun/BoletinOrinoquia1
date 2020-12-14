@@ -1,0 +1,182 @@
+# Graduados {#Grad}
+
+Este capítulo presenta el consolidado de las principales características asociadas a la información estadística oficial de los estudiantes graduados en pregrado y postgrado en la sede Orinoquía de la Universidad Nacional de Colombia. 
+
+El proceso de formación en pregrado en la Sede Orinoquía se da a la luz de los lineamientos definidos en el Programa Especial de Admisión y Movilidad Académica [PEAMA](#peama). Los aspirantes admitidos a pregrado en la Sede Orinoquía cursan la fase inicial de su proceso de formación en la Sede y posteriormente realizan la fase de movilidad en una de las sedes andinas de la Universidad Nacional de Colombia (Bogotá, Medellín, Manizales o Plamira) en donde, además de cursar buena parte de su proceso de formación, reciben su título de pregrado. Los estudiantes graduados en pregrado de la Sede Orinoquía y que hacen parte del presente capítulo, por lo antes expuesto, corresponde a aquellos que ingresaron a esta Sede a través del programa [PEAMA](#peama) y que posteriormente se graduaron en una de las sedes andinas de la Universidad. En contraste, la formación postgradual en la Sede Orinoquía se da a través de programas propios; es decir, los estudiantes graduados en este nivel de formación cursaron la totalidad de sus estudios en la Sede.
+
+A continuación, se presenta una breve descripción de las secciones que hacen parte de este capítulo así como la ubicación del sitio web en donde se presentan las definiciones, los estándares y las codificaciones/clasificaciones que hacen parte de la información acá contenida (*metadatos*) y cuya exploración y lectura, sin duda, facilitará el entendimiento de las cifras asociadas a las poblaciones de graduados en esta sede de la Universidad. 
+
+
+<h3>**Secciones**</h3> 
+
+
+* [Graduados en pregrado](#GraPre): contiene la información oficial del total de graduados en pregrado en la Sede Orinoquía de la Universidad Nacional de Colombia y que se incribieron, fueron admitidos y cursaron su proceso de formación a través del Programa Especial de Admisión y Movilidad Académica [PEAMA](#peama).
+
+* [Graduados en postgrado](#GraPos): contiene la información oficial del total de graduados en los programas de postgrado adscritos a la Sede Orinoquía de la Universidad Nacional de Colombia.
+
+
+<h3>**Metadatos**</h3>
+
+La construcción de las cifras oficiales de graduados en la Sede Orinoquía, las definiciones que hacen parte de estas así como las codificaciones y clasificaciones aquí empleadas se encuentran contenidas en la sección **Graduados** del capítulo de *Metadatos* de las cifras oficiales generales que hacen parte de la página de [estadísticas](http://estadisticas.unal.edu.co/home/) de la Universidad Nacional de Colombia. Invitamos a los lectores a explorar y conocer estos metadatos los cuales, además de orientar y facilitar el entendimiento de la información acá expuesta, se encuentran disponibles en el siguiente enlace.
+
+* [Metadatos Cifras Oficiales Universidad Nacional de Colombia](http://estadisticas.unal.edu.co/menu-principal/cifras-generales/metadatos/cifras-generales/)
+
+
+## Graduados en pregrado {#GraPre}
+
+A continuación, se presentan las principales características asociadas a los estudiantes graduados en pregrado de la **Sede Orinoquía** de la Universidad Nacional de Colombia. En específico, se presenta la evolución histórica de los graduados de pregrado desde diferentes perspectivas: general, sede andina de graduación, sexo, grupos de edad, estrato socioeconómico, departamentos y municipios de nacimiento y características de la sede de graduación de estos (sede andina, facultad y programas académicos). Para cada una de las variables analizadas se presenta la evolución histórica (*serie de tiempo*) así como el comportamiento actual (*estado actual*) derivado de las últimas mediciones disponibles.
+
+### Evolución Histórica
+
+A continuación, la Figura \@ref(fig:F1GraPre), presenta la evolución histórica -*desde el periodo 20131*-, del total de  graduados de pregrado en la Sede.
+
+```{r F1GraPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'}
+SERIE_GRA_PRE
+```
+<br>
+
+### Información por sede andina
+
+A continuación, las figuras \@ref(fig:F2GraPre) y \@ref(fig:F3GraPre) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de graduados en pregrado según la sede andina de graduación (Bogotá, Medellín, Manizales o palmira).
+
+```{r F2GraPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'}
+SEDE_ANDINA_SERIE_GRA_PRE 
+```
+<br>
+```{r F3GraPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'}
+SEDE_ANDINA_ACTUAL_GRA_PRE
+```
+<br>
+
+### Información por sexo 
+
+A continuación, las figuras \@ref(fig:F4GraPre) y \@ref(fig:F5GraPre) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de graduados en pregrado según el sexo biológico.
+
+```{r F4GraPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'}
+SEXO_SERIE_GRA_PRE
+```
+<br>
+```{r F5GraPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'}
+SEXO_ACTUAL_GRA_PRE
+```
+<br>
+
+### Información por edad
+
+A continuación, las figuras \@ref(fig:F6GraPre) y \@ref(fig:F7GraPre) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de graduados en pregrado según grupos de edad.
+
+```{r F6GraPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'}
+EDAD_SERIE_GRA_PRE 
+```
+<br>
+```{r F7GraPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'}
+EDAD_ACTUAL_GRA_PRE
+```
+<br>
+
+
+### Información por estrato
+
+A continuación, las figuras \@ref(fig:F8GraPre) y \@ref(fig:F9GraPre) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de graduados en pregrado según el estrato socioeconómico.
+
+```{r F8GraPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'}
+ESTRATO_SERIE_GRA_PRE 
+```
+<br>
+```{r F9GraPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'}
+ESTRATO_ACTUAL_GRA_PRE 
+```
+<br>
+
+### Tablas cifras agregadas 
+
+A continuación se presentan, a través de tablas, los agregados/consolidados históricos del total de graduados en pregrado de la **Sede Orinoquía** por departamentos y municipios de nacimiento así como las sedes andinas (Bogotá, Medellín, Manizales y Palmira), las facultades y los programas académicos de los que estos egresaron.
+
+Los interesados en *imprimir*, *copiar* o *descargar* estas cifras, pueden hacerlo a través de las múltiples opciones que se ofrecen en la parte superior izquierda de cada una de las tablas (Copiar, CSV, Excel, PDF e Imprimir). Así mismo, estas tablas permiten filtrar los resultados por aquellas variables de interés.
+
+#### Departamentos y municipios de nacimiento
+
+A continuación, la Tabla \@ref(fig:F10GraPre) presenta los acumulados **históricos**, por **años y semestres**, en la **Sede Orinoquía**, de los estudiantes graduados en pregrado por departamentos y municipios de nacimiento. 
+
+```{r F10GraPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'}
+TABLA_MUNICIPIOS_GRA_PRE
+```
+
+#### Sedes andinas y programas académicos de graduación
+
+A continuación, la Tabla \@ref(fig:F11GraPre) presenta los acumulados **históricos**, por **años y semestres**, en la **Sede Orinoquía**, de los estudiantes graduados en pregrado por sedes andinas, facultades y programas académicos de graduación. 
+
+```{r F11GraPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'}
+TABLA_CARRERAS_GRA_PRE 
+```
+
+<!-- ## Graduados en Postgrado {#GraPos} -->
+
+<!-- A continuación, se presentan las principales características asociadas a los estudiantes graduados en postgrado de la **Sede Orinoquía** de la Universidad Nacional de Colombia. En específico, se presenta la evolución histórica de los graduados en postgrado desde diferentes perspectivas: general, sexo, grupos de edad, departamentos y municipios de nacimiento y las modalidades de formación y programas académicos de egreso de los mismos. Para cada una de las variables analizadas se presenta la evolución histórica (*serie de tiempo*) así como el comportamiento actual (*estado actual*) derivado de las últimas mediciones disponibles. -->
+
+<!-- <br> -->
+<!-- <blockquote> -->
+<!-- <p><strong><p style="color:red;">Nota: Número de graduados en postgrado </p></strong><br> -->
+<!-- El número de graduados de postgrado en la Sede Orinoquía de la Universidad es bajo o cero para algunos periodos. Este hecho implica leer con precaución las frecuencias relativas (porcentajes) presentes en algunos de los resultados que se presentan a continuación. Estos, por por los bajos tamaños poblacionales existentes, son altamentente inestables/volátiles. -->
+<!-- </p> -->
+<!-- </blockquote> -->
+<!-- <br> -->
+
+<!-- ### Evolución Histórica -->
+
+<!-- A continuación, la Figura \@ref(fig:F1GraPos), presenta la evolución histórica -*desde el periodo 20091*-, del total de graduados en postgrado en la **Sede Orinoquía**. -->
+
+<!-- ```{r F1GraPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'} -->
+<!-- EVOLUCION_SERIE_GRA_POS -->
+<!-- ``` -->
+<!-- <br> -->
+
+<!-- ### Información por sexo  -->
+
+<!-- A continuación, las figuras \@ref(fig:F2GraPos) y \@ref(fig:F3GraPos) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de graduados en postgrado según el sexo biológico. -->
+
+<!-- ```{r F2GraPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'} -->
+<!-- SEXO_SERIE_GRA_POS -->
+<!-- ``` -->
+<!-- <br> -->
+<!-- ```{r F3GraPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'} -->
+<!-- SEXO_ACTUAL_GRA_POS -->
+<!-- ``` -->
+<!-- <br> -->
+
+<!-- ### Información por edad -->
+
+<!-- A continuación, las figuras \@ref(fig:F4GraPos) y \@ref(fig:F5GraPos) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de graduados en postgrado según grupos de edad. -->
+
+<!-- ```{r F4GraPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'} -->
+<!-- CAT_EDAD_SERIE_GRA_POS  -->
+<!-- ``` -->
+<!-- <br> -->
+<!-- ```{r F5GraPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'} -->
+<!-- CAT_EDAD_ACTUAL_GRA_POS -->
+<!-- ``` -->
+<!-- <br> -->
+
+<!-- ### Tablas cifras agregadas  -->
+
+<!-- A continuación se presentan, a través de tablas, los agregados/consolidados históricos del total de graduados en postgrado de la **Sede Orinoquía** por departamentos y municipios de nacimiento así como las modalidades de formación y los programas académicos de los que estos egresaron. -->
+
+<!-- Los interesados en *imprimir*, *copiar* o *descargar* estas cifras, pueden hacerlo a través de las múltiples opciones que se ofrecen en la parte superior izquierda de cada una de las tablas (Copiar, CSV, Excel, PDF e Imprimir). Así mismo, estas tablas permiten filtrar los resultados por aquellas variables de interés. -->
+
+<!-- #### Departamentos y municipios de nacimiento -->
+
+<!-- A continuación, la Tabla \@ref(fig:F6GraPos) presenta los acumulados **históricos**, por **años y semestres**, en la **Sede Orinoquía**, de los estudiantes graduados en postgrado por departamentos y municipios de nacimiento.  -->
+
+<!-- ```{r F6GraPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'} -->
+<!-- TABLA_MUNICIPIOS_GRA_POS -->
+<!-- ``` -->
+
+<!-- #### Modalidad y programas académicos de graduación -->
+
+<!-- A continuación, la Tabla \@ref(fig:F7GraPos) presenta los acumulados **históricos**, por **años y semestres**, en la **Sede Orinoquía**, de los estudiantes graduados en postgrado por modalidades de formación y programas académicos de graduación.  -->
+
+<!-- ```{r F7GraPos, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Secretaría General'} -->
+<!-- TABLA_CARRERAS_GRA_POS -->
+<!-- ``` -->
+
+

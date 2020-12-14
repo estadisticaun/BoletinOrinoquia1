@@ -1,0 +1,87 @@
+# Administrativos {#Admi}
+
+Este capítulo presenta el consolidado de las principales características asociadas a la información estadística oficial de los administrativos de carrera adscritos a la Sede Orinoquía de la Universidad Nacional de Colombia así como la información estadística del personal adicional que apoya las labores administrativas en esta sede y que se encuentran vinculados a través de contratos de prestación de servicios (contratistas).
+
+A continuación, se presenta una breve descripción de las secciones que hacen parte de este capítulo así como la ubicación del sitio web en donde se presentan las definiciones, los estándares y las codificaciones/clasificaciones que hacen parte de la información acá contenida (*metadatos*) y cuya exploración y lectura, sin duda, facilitará el entendimiento de las cifras asociadas, principalmente, a la población de administrativos de carrera en esta sede de la Universidad. 
+
+
+<h3>**Secciones**</h3> 
+
+
+* [Administrativos de carrera](#AdmCar): contiene la información oficial del total de funcionarios administrativos de carrera adscritos a la Sede Orinoquía de la Universidad Nacional de Colombia y que fueron vinculados mediante concurso público.
+
+
+* [Contratistas](#Contrat): contiene la información oficial del total de .....
+
+
+<h3>**Metadatos**</h3>
+
+La construcción de las cifras oficiales de administrativos de carrera en la Sede Orinoquía, las definiciones que hacen parte de esta categoría así como las codificaciones y clasificaciones aquí empleadas se encuentran contenidas en la sección **Administrativos** del capítulo de *Metadatos* de las cifras oficiales generales que hacen parte de la página de [estadísticas](http://estadisticas.unal.edu.co/home/) de la Universidad Nacional de Colombia. Invitamos a los lectores a explorar y conocer estos metadatos los cuales, además de orientar y facilitar el entendimiento de la información de administrativos de carrera, se encuentran disponibles en el siguiente enlace.
+
+* [Metadatos Cifras Oficiales Universidad Nacional de Colombia](http://estadisticas.unal.edu.co/menu-principal/cifras-generales/metadatos/cifras-generales/)
+
+
+## Administrativos de carrera {#AdmCar}
+
+A continuación, se presentan las principales características asociadas a los administrativos de carrera de la **Sede Orinoquía** de la Universidad Nacional de Colombia. En específico, se presenta la evolución histórica de los funcionarios administrativos desde diferentes perspectivas: general, sexo, grupos de edad y máximo nivel de formación. Para cada una de las variables analizadas se presenta la evolución histórica (*serie de tiempo*) así como el comportamiento actual (*estado actual*) derivado de las últimas mediciones disponibles.
+
+<br>
+<blockquote>
+<p><strong><p style="color:red;">Nota: Número de administrativos de carrera </p></strong><br>
+El número de administrativos de carrera en la Sede Orinoquía de la Universidad es bajo. Este hecho implica leer con precaución las frecuencias relativas (porcentajes) presentes en algunos de los resultados que se presentan a continuación. Estos, por por los bajos tamaños poblacionales existentes, son altamentente inestables/volátiles.
+</p>
+</blockquote>
+<br>
+
+
+### Evolución Histórica
+
+A continuación, la Figura \@ref(fig:F1AdmiCar), presenta la evolución histórica -*desde el periodo 20082*-, del total de funcionarios administrativos de carrera de la **Sede Orinoquía**.
+
+
+```{r F1AdmiCar, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Talento Humano'}
+SERIE_ADMI_CAR
+```
+<br>
+
+### Información por sexo 
+
+A continuación, las figuras \@ref(fig:F2AdmiCar) y \@ref(fig:F3AdmiCar) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de funcionarios administrativos de carrera de la **Sede Orinoquía** según el sexo biológico.
+
+```{r F2AdmiCar, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Talento Humano'}
+SEXO_SERIE_ADMI_CAR
+```
+
+```{r F3AdmiCar, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Talento Humano'}
+SEXO_ACTUAL_ADMI_CAR
+```
+<br>
+
+### Información por edad
+
+A continuación, las figuras \@ref(fig:F4AdmiCar) y \@ref(fig:F5AdmiCar) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de funcionarios administrativos de carrera de la **Sede Orinoquía** según grupos de edad.
+
+```{r F4AdmiCar, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Talento Humano'}
+EDAD_SERIE_ADMI_CAR
+```
+
+```{r F5AdmiCar, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Talento Humano'}
+EDAD_ACTUAL_ADMI_CAR
+```
+<br>
+
+### Información por máximo nivel de formación
+
+A continuación, las figuras \@ref(fig:F6AdmiCar) y \@ref(fig:F7AdmiCar) presentan, respectivamente, la evolución histórica y el comportamiento actual del total de funcionarios administrativos de carrera de la **Sede Orinoquía** según el máximo nivel de formación.
+
+```{r F6AdmiCar, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Talento Humano'}
+FORMACION_SERIE_ADMI_CAR
+```
+
+
+```{r F7AdmiCar, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Talento Humano'}
+FORMACION_ACTUAL_ADMI_CAR
+```
+
+## Contratistas {#Contrat}
+

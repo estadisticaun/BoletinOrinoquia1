@@ -1,0 +1,81 @@
+# Introducción {-#intro}
+
+La Universidad Nacional de Colombia Sede Orinoquia, en un esfuerzo por consolidar y divulgar la información referente a su quehacer misional en la región Orinoquia, presenta a la comunidad universitaria y a la sociedad en general una nueva edición online del Boletín Estadístico de la Sede Orinoquía.
+
+En la presente publicación - “Boletín Estadístico de la Sede Orinoquía-, se muestra el desempeño de la Sede desde su creación hasta la actualidad. El documento hace un amplio recorrido a la historia de la Sede, representado en estadísticas basadas en la documentación física existente desde el inicio de las actividades de la Sede.
+
+En el cumplimento de cada una de sus  funciones, la sede ha tenido logros y avances importantes para la Universidad y la Región de la Orinoquia, los cuales se dan a conocer a la comunidad universitaria y a la opinión pública en general mediante esta publicación. 
+
+La Sede Orinoquia ha hecho un esfuerzo de sistematización de la información para establecer las estadísticas y los indicadores de tal forma que se haga visible la gestión de la Sede, en cumplimiento de la Misión de la Universidad Nacional de Colombia en la región de la Orinoquia. 
+
+Los datos representados en cifras estadísticas proporcionan información veraz acerca de los procesos misionales: formación, investigación y extensión. Además, presenta información sobre egresados, personal docente y administrativo, presupuestos, bienestar universitario e infraestructura. 
+
+Se pretende con esta publicación mantener registros actualizados y periódicos de algunas de las variables más importantes de la Sede, como una herramienta base de consulta que permite orientar la toma de decisiones y así concretar la
+visión estratégica de la Institución de una forma coherente, metódica y eficaz, teniendo en cuenta que se hace necesaria la medición de la gestión y el desempeño como parte de la autoevaluación institucional para la rendición de cuentas a la comunidad universitaria, entidades externas y/o grupos de interés.
+
+## Misión {-#mision}
+
+La Universidad Nacional de Colombia, como Universidad de la nación, fomenta el acceso con equidad al sistema educativo colombiano, provee la mayor oferta de programas académicos, forma profesionales competentes y socialmente responsables. Contribuye a la elaboración y resignificación del proyecto de nación, estudia y enriquece el patrimonio cultural, natural y ambiental del país. Como tal lo asesora en los órdenes científico, tecnológico, cultural y artístico con autonomía académica e investigativa.
+
+## Visión 2030 {-#vision}
+
+En el año 2030 somos la principal universidad colombiana, reconocida por su contribución a la
+nación, y por su excelencia en los procesos de formación, investigación, e innovación social y
+tecnológica. Nuestra capacidad de reinventarnos nos ha llevado a tener una organización académica y administrativa novedosa, flexible, eficiente y sostenible, con comunicación transparente y efectiva en su interior, con la nación y con el mundo, y comprometida con los procesos
+de transformación social requeridos para alcanzar una sociedad equitativa, incluyente y en paz. 
+
+## Historia {-#hist}
+
+La Sede Orinoquía de la Universidad Nacional de Colombia fue creada gracias al Acuerdo 40 de 1996 del Consejo Superior Universitario. En el año 1997, la sede entró en funcionamiento en la ciudad de Arauca y, así mismo, se creó el Instituto de Estudios de la Orinoquía. Más tarde, en el año 2005, a través del Acuerdo 011 de 2005, la sede se transformó en Sede de Presencia Nacional de Orinoquía; de ese modo, la Universidad Nacional de Colombia reconoce y garantiza su presencia en los Llanos Orientales, una zona estratégica tanto para el desarrollo económico, político y social como para el acervo cultural del país, donde consolida y demuestra su trayectoría académica e investigativa.
+
+Es así como desde su creación, la Sede de Presencia Nacional de Orinoquía ha desarrollado tres tipos de formación en programas de pregrado. En primer lugar, con cohortes de programas completos: Enfermería, Ingeniería Ambiental e Ingeniería Agronómica. En segundo lugar, con un Programa Especial de Admisión de Ingreso por Áreas, que consistió en la realización de un semestre de fundamentación y posteriormente la admisión a un área del conocimiento ya sea ciencias o ingeniería. En tercer lugar,  con un Programa Especial de Admisión y Movilidad académica – Peama, el cual permite la admisión semestral a la Universidad Nacional de Colombia de jóvenes residentes en Arauca, Casanare, Guainía, Guaviare y Vichada a 73 programas curriculares de las sedes Bogotá, Medellín, Manizales y Palmira.
+
+La oferta de programas de posgrado ha estado orientada a la demanda de profesionales y ,además, estos programas se han ofertado por medio de convenio con otras sedes de la Universidad Nacional de Colombia.
+
+De igual forma, la investigación se ha desarrollado mediante diferentes modalidades, permitiendo desde la articulación de esta con los programas de pregrado y posgrado desarrollados por la Sede en convenio de cooperación, hasta el acceso a recursos de cofinanciación y las iniciativas de docentes vinculados a la Sede.
+
+Por un lado, a partir del 2009, la investigación se fortaleció mediante la apertura de convocatorias de investigación, que permitieron, primero, la ejecución de proyectos de investigación a través de cofinanciación; segundo, la movilidad de estudiantes y profesores con fines investigativos; tercero, la vinculación de grupos de investigación de otras sedes de la Universidad para el desarrollo de proyectos en temas de la Orinoquia; cuarto, la creación y fortalecimiento de semilleros de investigación y, finalmente, el desarrollo de actividades encaminadas a promover la divulgación de los resultados de investigación obtenidos en la comunidad llanera, académica y científica a nivel regional y nacional.
+
+La extensión en la Sede se ha desplegado con los servicios académicos, la educación continua, los servicios de educación, la extensión solidaria, las prácticas y las pasantías. Aunque cabe anotar que, durante los últimos años, se ha hecho especial énfasis en los servicios de educación gracias al laboratorio de la Sede y a la educación continua con la realización de congresos, seminarios, talleres y conferencias. 
+
+Así, la investigación y la extensión en la sede se expanden cada vez más gracias a proyectos como la Granja Experimental El Cairo, proyectada como un modelo agropecuario autosostenible para la región, que sirve de soporte y complemento al Laboratorio de Suelos, Aguas y Foliares, que es único en el departamento y el segundo en la Orinoquía, proyectado también como herramienta de tenificación al sector productivo.
+
+Por otro lado, El apoyo a la misión institucional se ha fundamentado en el fortalecimiento de la infraestructura física y tecnológica, contando con canales de comunicaciones para servicio de videoconferencia, voz sobre IP, canal
+WAN, acceso a sistemas de información propios, dos salas de sistemas, aulas de clase, biblioteca con acceso a todos los servicios del Sistema Nacional de Bibliotecas (Sinab), laboratorios para la docencia y espacios de bienestar.
+
+
+## Ubicación {-#ubica}
+
+La Sede Orinoquia de la Universidad Nacional de Colombia se localiza a nueve kilómetros de la zona urbana del municipio de Arauca, sobre el costado izquierdo de la vía que conduce al Complejo Petrolero de Caño Limón, en el departamento de Arauca.
+
+<html>
+<center>
+<body>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13497317.042413037!2d-81.20389240529985!3d4.817015543102023!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e6fc1c30ea9f9c7%3A0x2f43f612af7c54eb!2sUniversidad+Nacional+de+Colombia+Sede+Orinoqu%C3%ADa!5e0!3m2!1ses!2sco!4v1510014058379" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+</body>
+</center>
+</html>
+
+
+## PEAMA {-#peama}
+
+**Programa especial de admisión y movilidad académica – Peama** 
+
+Los procesos de formación en pregrado en la Universidad Nacional de Colombia Sede Orinoquía se desarrollan a través del programa especial de admisión y movilidad académica – Peama. Este programa fue creado por la Universidad a través del Acuerdo del Consejo Superior Universitario N.° 025 de 2007, con el objetivo de participar activamente en el desarrollo social de las regiones fronterizas, a través de la formación profesional de los futuros líderes científicos, empresariales y políticos del país, siendo el modelo en el que opera la formación en las sedes de presencia nacional siendo estas la Sede Amazonia, Caribe, Tumaco y Orinoquía.
+
+Aspectos como la escasa oferta de programas de pregrado en las regiones ubicadas en las fronteras del país, la dificultad económica para llevar carreras completas a estas regiones, una posible saturación del mercado laboral por la reducida oferta de programas de pregrado, el desarrollo regional que supone la presencia de diferentes áreas del conocimiento teniendo en cuenta las vocaciones de las regiones y las fortalezas institucionales de la Universidad Nacional de Colombia, fueron las situaciones que originaron la creación del Peama, para las Sedes de Presencia Nacional. El programa consiste en la oferta de programas curriculares de pregrado de las sedes Bogotá, Manizales, Medellín y Palmira a bachilleres residentes en las regiones de influencia de las Sedes de Presencia Nacional. Para el caso de la Sede Orinoquía, participan los departamentos de Arauca, Casanare, Guainía, Guaviare y Vichada. El Peama es especial en la forma de admitir a los estudiantes en la movilidad al inicio de sus estudios y en el apoyo metodológico. Se utiliza el sistema de telepresencia como instrumento educativo.
+
+**Etapas**
+
+El Peama tiene las siguientes etapas de formación: 
+
+_**Etapa inicial**_: una vez admitido, el estudiante inicia estudios en la Sede de Presencia Nacional, en donde cursará algunas asignaturas. Esta etapa inicial podrá variar para cada estudiante según su desempeño en el examen de admisión, los requerimientos del programa curricular al que haya sido admitido y de acuerdo con la disponibilidad de los programas que se puedan ofrecer en la Sede de Presencia Nacional. 
+
+_**Etapa de movilidad**_: iniciará movilidad a las sedes donde se ofrece el programa seleccionado. Como parte de la movilidad académica, el estudiante continuará los cursos del plan de estudios establecido, en la sede que ofrece el programa en el cual fue admitido.
+
+_**Etapa final**_: Para terminar el programa, el estudiante se desplazará a la Sede de Presencia Nacional con el fin de realizar su trabajo de grado. Cuando esto no sea posible, el estudiante deberá hacer su trabajo de grado, preferentemente, en temas de interés para su región.
+
+
+
