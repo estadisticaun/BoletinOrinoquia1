@@ -1,28 +1,28 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.7.3)  14 DEC 2020 17:54
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.20)  22 JAN 2021 18:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Boletin-Orinoquia.tex
 (./Boletin-Orinoquia.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-06-18> (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-di
-st/tex/latex/base/book.cls
-Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03> (c:/Users/jm/AppData/Roam
+ing/TinyTeX/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+File: bk10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count163
-\c@chapter=\count164
-\c@section=\count165
-\c@subsection=\count166
-\c@subsubsection=\count167
-\c@paragraph=\count168
-\c@subparagraph=\count169
-\c@figure=\count170
-\c@table=\count171
+\c@part=\count173
+\c@chapter=\count174
+\c@section=\count175
+\c@subsection=\count176
+\c@subsubsection=\count177
+\c@paragraph=\count178
+\c@subparagraph=\count179
+\c@figure=\count180
+\c@table=\count181
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 ) (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -71,7 +71,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.st
 y
-Package: amsmath 2020/01/20 v2.17e AMS math features
+Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip49
 For additional information on amsmath, use the `?' option.
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -79,50 +79,50 @@ Package: amstext 2000/06/29 v2.01 AMS text
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
-\ex@=\dimen135
+\ex@=\dimen139
 )) (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen136
+\pmbraise@=\dimen140
 ) (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count172
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count173
-\leftroot@=\count174
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count175
-\DOTSCASE@=\count176
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box45
-\strutbox@=\box46
-\big@size=\dimen137
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count177
-\c@MaxMatrixCols=\count178
+\inf@bad=\count182
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count183
+\leftroot@=\count184
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count185
+\DOTSCASE@=\count186
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count187
+\c@MaxMatrixCols=\count188
 \dotsspace@=\muskip16
-\c@parentequation=\count179
-\dspbrk@lvl=\count180
+\c@parentequation=\count189
+\dspbrk@lvl=\count190
 \tag@help=\toks17
-\row@=\count181
-\column@=\count182
-\maxfields@=\count183
+\row@=\count191
+\column@=\count192
+\maxfields@=\count193
 \andhelp@=\toks18
-\eqnshift@=\dimen138
-\alignsep@=\dimen139
-\tagshift@=\dimen140
-\tagwidth@=\dimen141
-\totwidth@=\dimen142
-\lineht@=\dimen143
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
 \@envbody=\toks19
 \multlinegap=\skip50
 \multlinetaggap=\skip51
 \mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2859.
-LaTeX Info: Redefining \] on input line 2860.
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
 ) (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
@@ -134,15 +134,20 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-
 math.sty (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/exp
 l3.sty
-Package: expl3 2020-06-18 L3 programming layer (loader) 
+Package: expl3 2021-01-09 L3 programming layer (loader) 
 
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-x
-dvipdfmx.def
-File: l3backend-xdvipdfmx.def 2020-06-29 L3 backend support: xdvipdfmx
-\g__graphics_track_int=\count184
-\l__pdf_internal_box=\box47
-\g__pdf_backend_object_int=\count185
-\g__pdf_backend_annotation_int=\count186
+etex.def
+File: l3backend-xetex.def 2021-01-09 L3 backend support: XeTeX
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count194
+\g__color_stack_int=\count195
+\l__kernel_color_stack_int=\count196
+\g__graphics_track_int=\count197
+\l__pdf_internal_box=\box49
+\g__pdf_backend_object_int=\count198
+\g__pdf_backend_annotation_int=\count199
+\g__pdf_backend_link_int=\count266
 ))
 Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
 
@@ -153,18 +158,13 @@ TeX
 
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xpa
 rse.sty
-Package: xparse 2020-05-15 L3 Experimental document command parser
+Package: xparse 2020-10-27 L3 Experimental document command parser
 
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xpa
-rse-generic.tex
-\l__xparse_current_arg_int=\count187
-\g__xparse_grabber_int=\count188
-\l__xparse_m_args_int=\count189
-\l__xparse_v_nesting_int=\count190
-))
+rse-generic.tex))
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l
 3keys2e.sty
-Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
 )
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
@@ -173,22 +173,22 @@ Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 ex.sty
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count191
-\l__fontspec_language_int=\count192
-\l__fontspec_strnum_int=\count193
-\l__fontspec_tmp_int=\count194
-\l__fontspec_tmpa_int=\count195
-\l__fontspec_tmpb_int=\count196
-\l__fontspec_tmpc_int=\count197
-\l__fontspec_em_int=\count198
-\l__fontspec_emdef_int=\count199
-\l__fontspec_strong_int=\count266
-\l__fontspec_strongdef_int=\count267
-\l__fontspec_tmpa_dim=\dimen144
-\l__fontspec_tmpb_dim=\dimen145
-\l__fontspec_tmpc_dim=\dimen146
+\l__fontspec_script_int=\count267
+\l__fontspec_language_int=\count268
+\l__fontspec_strnum_int=\count269
+\l__fontspec_tmp_int=\count270
+\l__fontspec_tmpa_int=\count271
+\l__fontspec_tmpb_int=\count272
+\l__fontspec_tmpc_int=\count273
+\l__fontspec_em_int=\count274
+\l__fontspec_emdef_int=\count275
+\l__fontspec_strong_int=\count276
+\l__fontspec_strongdef_int=\count277
+\l__fontspec_tmpa_dim=\dimen148
+\l__fontspec_tmpb_dim=\dimen149
+\l__fontspec_tmpc_dim=\dimen150
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 )
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg
 ))) (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fix-cm.sty
@@ -197,55 +197,55 @@ Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
-\g__um_fam_int=\count268
-\g__um_fonts_used_int=\count269
-\l__um_primecount_int=\count270
+\g__um_fam_int=\count278
+\g__um_fonts_used_int=\count279
+\l__um_primecount_int=\count280
 \g__um_primekern_muskip=\muskip17
 
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-
 math-table.tex)))
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtype.s
 ty
-Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+Package: microtype 2020/12/07 v2.8 Micro-typographical refinements (RS)
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
 )
 \MT@toks=\toks22
-\MT@count=\count271
-LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen147
-LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
-\MT@listname@count=\count272
+\MT@count=\count281
+LaTeX Info: Redefining \textls on input line 788.
+\MT@outer@kern=\dimen151
+LaTeX Info: Redefining \textmicrotypecontext on input line 1358.
+\MT@listname@count=\count282
 
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtype-x
 etex.def
-File: microtype-xetex.def 2019/11/18 v2.7d Definitions specific to xetex (RS)
-LaTeX Info: Redefining \lsstyle on input line 258.
+File: microtype-xetex.def 2020/12/07 v2.8 Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 254.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtype.c
 fg
-File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+File: microtype.cfg 2020/12/07 v2.8 microtype main configuration file (RS)
 )) (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/parskip/parskip.st
 y
 Package: parskip 2020-06-15 v2.0f non-zero parskip adjustments
 
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.s
 ty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys
 .sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count273
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count283
 )) (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
@@ -257,7 +257,7 @@ Package xcolor Info: Driver file: xetex.def on input line 225.
 
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.de
 f
-File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+File: xetex.def 2020/08/26 v5.0i Graphics/color driver for xetex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `RGB' extended on input line 1364.
@@ -300,9 +300,9 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen148
-\Hy@linkcounter=\count274
-\Hy@pagecounter=\count275
+\@linkdim=\dimen152
+\Hy@linkcounter=\count284
+\Hy@pagecounter=\count285
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 )
@@ -313,7 +313,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count276
+\Hy@SavedSpaceFactor=\count286
 Package hyperref Info: Option `unicode' set `true' on input line 4338.
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
@@ -325,13 +325,13 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count277
+\c@Hy@tempcnt=\count287
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen149
+\XeTeXLinkMargin=\dimen153
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
@@ -340,9 +340,9 @@ lc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count278
-\Field@Width=\dimen150
-\Fld@charsize=\dimen151
+\Fld@menulength=\count288
+\Field@Width=\dimen154
+\Fld@charsize=\dimen155
 Package hyperref Info: Hyper figures OFF on input line 6347.
 Package hyperref Info: Link nesting OFF on input line 6352.
 Package hyperref Info: Hyper index ON on input line 6355.
@@ -353,13 +353,14 @@ Package hyperref Info: PDF/A mode OFF on input line 6377.
 LaTeX Info: Redefining \ref on input line 6417.
 LaTeX Info: Redefining \pageref on input line 6421.
 
-(c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/atbegshi/atbegshi.s
-ty
-Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+(c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
 )
-\Hy@abspage=\count279
-\c@Item=\count280
-\c@Hfootnote=\count281
+\Hy@abspage=\count289
+\c@Item=\count290
+\c@Hfootnote=\count291
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
@@ -370,19 +371,21 @@ File: hxetex.def 2020-05-15 v7.00e Hyperref driver for XeTeX
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box48
-\c@Hy@AnnotLevel=\count282
-\HyField@AnnotCount=\count283
-\Fld@listcount=\count284
-\c@bookmark@seq@number=\count285
+\pdfm@box=\box50
+\c@Hy@AnnotLevel=\count292
+\HyField@AnnotCount=\count293
+\Fld@listcount=\count294
+\c@bookmark@seq@number=\count295
 
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunf
 ilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/atveryend/atveryend.s
-ty
-Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+(c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.st
+y
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
 )
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniqu
 ecounter.sty
@@ -398,48 +401,48 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTright=\skip54
 \LTpre=\skip55
 \LTpost=\skip56
-\LTchunksize=\count286
-\LTcapwidth=\dimen152
-\LT@head=\box49
-\LT@firsthead=\box50
-\LT@foot=\box51
-\LT@lastfoot=\box52
-\LT@cols=\count287
-\LT@rows=\count288
-\c@LT@tables=\count289
-\c@LT@chunks=\count290
+\LTchunksize=\count296
+\LTcapwidth=\dimen156
+\LT@head=\box51
+\LT@firsthead=\box52
+\LT@foot=\box53
+\LT@lastfoot=\box54
+\LT@cols=\count297
+\LT@rows=\count298
+\c@LT@tables=\count299
+\c@LT@chunks=\count300
 \LT@p@ftn=\toks23
 )
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen153
-\lightrulewidth=\dimen154
-\cmidrulewidth=\dimen155
-\belowrulesep=\dimen156
-\belowbottomsep=\dimen157
-\aboverulesep=\dimen158
-\abovetopsep=\dimen159
-\cmidrulesep=\dimen160
-\cmidrulekern=\dimen161
-\defaultaddspace=\dimen162
-\@cmidla=\count291
-\@cmidlb=\count292
-\@aboverulesep=\dimen163
-\@belowrulesep=\dimen164
-\@thisruleclass=\count293
-\@lastruleclass=\count294
-\@thisrulewidth=\dimen165
+\heavyrulewidth=\dimen157
+\lightrulewidth=\dimen158
+\cmidrulewidth=\dimen159
+\belowrulesep=\dimen160
+\belowbottomsep=\dimen161
+\aboverulesep=\dimen162
+\abovetopsep=\dimen163
+\cmidrulesep=\dimen164
+\cmidrulekern=\dimen165
+\defaultaddspace=\dimen166
+\@cmidla=\count301
+\@cmidlb=\count302
+\@aboverulesep=\dimen167
+\@belowrulesep=\dimen168
+\@thisruleclass=\count303
+\@lastruleclass=\count304
+\@thisrulewidth=\dimen169
 )
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/mdwtools/footnote.sty
 Package: footnote 1997/01/28 1.13 Save footnotes around boxes
-\fn@notes=\box53
-\fn@width=\dimen166
+\fn@notes=\box55
+\fn@width=\dimen170
 )
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
@@ -449,51 +452,69 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 105.
 )
-\Gin@req@height=\dimen167
-\Gin@req@width=\dimen168
+\Gin@req@height=\dimen171
+\Gin@req@width=\dimen172
+)
+(c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count305
+\Gm@cntv=\count306
+\c@Gm@tempcnt=\count307
+\Gm@bindingoffset=\dimen173
+\Gm@wd@mp=\dimen174
+\Gm@odd@mp=\dimen175
+\Gm@even@mp=\dimen176
+\Gm@layoutwidth=\dimen177
+\Gm@layoutheight=\dimen178
+\Gm@layouthoffset=\dimen179
+\Gm@layoutvoffset=\dimen180
+\Gm@dimlist=\toks24
 ) (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip57
 \bibsep=\skip58
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count295
+\c@NAT@ctr=\count308
 ) (./Boletin-Orinoquia.aux)
 \openout1 = `Boletin-Orinoquia.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 78.
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 78.
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 78.
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 78.
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 78.
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 78.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 78.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 79.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -522,7 +543,7 @@ pt=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 78.
+(Font)              scaled to size 10.0pt on input line 79.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -561,17 +582,17 @@ pt=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 78.
+(Font)              scaled to size 10.0pt on input line 79.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 78.
+(Font)              `operators' in the math version `normal' on input line 79.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
- line 78.
+ line 79.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 78.
+(Font)              `operators' in the math version `bold' on input line 79.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
-t line 78.
+t line 79.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -658,15 +679,15 @@ t=math;language=dflt;"
 (fontspec)             \fontdimen 21\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 78.
+(Font)              `symbols' in the math version `normal' on input line 79.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 78.
+t line 79.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 78.
+(Font)              `symbols' in the math version `bold' on input line 79.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
-t line 78.
+t line 79.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -736,17 +757,17 @@ pt=math;language=dflt;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 7
-8.
+9.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
-t line 78.
+t line 79.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 78.
+(Font)              `largesymbols' in the math version `bold' on input line 79.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
-t line 78.
-LaTeX Info: Redefining \microtypecontext on input line 78.
+t line 79.
+LaTeX Info: Redefining \microtypecontext on input line 79.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: No adjustment of tracking.
@@ -758,8 +779,7 @@ ernRoman.cfg
 File: mt-LatinModernRoman.cfg 2013/03/13 v1.0 microtype config. file: Latin Mod
 ern Roman (RS)
 )
-\AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 78.
+Package hyperref Info: Link coloring OFF on input line 79.
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -770,39 +790,73 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 itlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count296
+\c@section@level=\count309
 )
-LaTeX Info: Redefining \ref on input line 78.
-LaTeX Info: Redefining \pageref on input line 78.
-LaTeX Info: Redefining \nameref on input line 78.
+LaTeX Info: Redefining \ref on input line 79.
+LaTeX Info: Redefining \pageref on input line 79.
+LaTeX Info: Redefining \nameref on input line 79.
 (./Boletin-Orinoquia.out) (./Boletin-Orinoquia.out)
 \@outlinefile=\write3
 \openout3 = `Boletin-Orinoquia.out'.
 
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(170.71652pt, 453.53694pt, 170.71652pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=453.53694pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=68.37904pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 80.
+(Font)              scaled to size 12.0pt on input line 81.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 80.
+(Font)              scaled to size 8.0pt on input line 81.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 80.
+(Font)              scaled to size 6.0pt on input line 81.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
-0.
+1.
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 12.0011pt on input line 80.
+(Font)              scaled to size 12.0011pt on input line 81.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00073pt on input line 80.
+(Font)              scaled to size 8.00073pt on input line 81.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00055pt on input line 80.
+(Font)              scaled to size 6.00055pt on input line 81.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 11.99872pt on input line 80.
+(Font)              scaled to size 11.99872pt on input line 81.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 80.
+(Font)              scaled to size 7.99915pt on input line 81.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 80.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 80.
+(Font)              scaled to size 5.99936pt on input line 81.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 81.
 
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -810,7 +864,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 g
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 80.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 81.
 
 (c:/Users/jm/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -849,23 +903,20 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 
 ] [7] [8
 
-]
-Underfull \vbox (badness 2698) has occurred while \output is active []
+] [9] [10]
+Underfull \vbox (badness 1178) has occurred while \output is active []
 
-[9] [10]
-Underfull \vbox (badness 1226) has occurred while \output is active []
-
-[11] [12] [13] [14
-
-]
+[11] [12]
 Chapter 1.
-[15] [16
+[13
+
+] [14
 
 ]
 Chapter 2.
-[17]
+[15]
 
-LaTeX Warning: Reference `fig:F1AspPre' on page 18 undefined on input line 246.
+LaTeX Warning: Reference `fig:F1AspPre' on page 16 undefined on input line 247.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F1AspPre-1.pdf Graphic file (type pd
@@ -874,13 +925,13 @@ f)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[18]
+[16]
 
-LaTeX Warning: Reference `fig:F2AspPre' on page 19 undefined on input line 253.
+LaTeX Warning: Reference `fig:F2AspPre' on page 17 undefined on input line 254.
 
 
 
-LaTeX Warning: Reference `fig:F3AspPre' on page 19 undefined on input line 253.
+LaTeX Warning: Reference `fig:F3AspPre' on page 17 undefined on input line 254.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F2AspPre-1.pdf Graphic file (type pd
@@ -890,20 +941,18 @@ File: Boletin-Orinoquia_files/figure-latex/F3AspPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F3AspPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--257
-[][]
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[19]
+[17]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `fig:F4AspPre' on page 20 undefined on input line 261.
+[18]
+
+LaTeX Warning: Reference `fig:F4AspPre' on page 19 undefined on input line 262.
 
 
 
-LaTeX Warning: Reference `fig:F5AspPre' on page 20 undefined on input line 261.
+LaTeX Warning: Reference `fig:F5AspPre' on page 19 undefined on input line 262.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F4AspPre-1.pdf Graphic file (type pd
@@ -913,17 +962,18 @@ File: Boletin-Orinoquia_files/figure-latex/F5AspPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F5AspPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--265
-[][]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [20]
 
-LaTeX Warning: Reference `fig:F6AspPre' on page 21 undefined on input line 269.
+LaTeX Warning: Reference `fig:F6AspPre' on page 21 undefined on input line 270.
 
 
 
-LaTeX Warning: Reference `fig:F7AspPre' on page 21 undefined on input line 269.
+LaTeX Warning: Reference `fig:F7AspPre' on page 21 undefined on input line 270.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F6AspPre-1.pdf Graphic file (type pd
@@ -933,17 +983,18 @@ File: Boletin-Orinoquia_files/figure-latex/F7AspPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F7AspPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 271--273
-[][]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `fig:F8AspPre' on page 22 undefined on input line 277.
+[22]
+
+LaTeX Warning: Reference `fig:F8AspPre' on page 23 undefined on input line 278.
 
 
 
-LaTeX Warning: Reference `fig:F9AspPre' on page 22 undefined on input line 277.
+LaTeX Warning: Reference `fig:F9AspPre' on page 23 undefined on input line 278.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F8AspPre-1.pdf Graphic file (type pd
@@ -953,19 +1004,24 @@ File: Boletin-Orinoquia_files/figure-latex/F9AspPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F9AspPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--281
-[][]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[22] [23]
+[23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[24]
 File: Boletin-Orinoquia_files/figure-latex/F10AspPre-1.pdf Graphic file (type p
 df)
 <use Boletin-Orinoquia_files/figure-latex/F10AspPre-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.04106pt on input line 298.
+LaTeX Warning: Float too large for page by 34.11482pt on input line 299.
 
 
-LaTeX Warning: Reference `fig:F1AdmPre' on page 24 undefined on input line 308.
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+[25]
+
+LaTeX Warning: Reference `fig:F1AdmPre' on page 26 undefined on input line 309.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F1AdmPre-1.pdf Graphic file (type pd
@@ -974,13 +1030,13 @@ f)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[24] [25]
+[26] [27]
 
-LaTeX Warning: Reference `fig:F2AdmPre' on page 26 undefined on input line 315.
+LaTeX Warning: Reference `fig:F2AdmPre' on page 28 undefined on input line 316.
 
 
 
-LaTeX Warning: Reference `fig:F3AdmPre' on page 26 undefined on input line 315.
+LaTeX Warning: Reference `fig:F3AdmPre' on page 28 undefined on input line 316.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F2AdmPre-1.pdf Graphic file (type pd
@@ -990,20 +1046,18 @@ File: Boletin-Orinoquia_files/figure-latex/F3AdmPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F3AdmPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--319
-[][]
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[26]
+[28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `fig:F4AdmPre' on page 27 undefined on input line 323.
+[29]
+
+LaTeX Warning: Reference `fig:F4AdmPre' on page 30 undefined on input line 324.
 
 
 
-LaTeX Warning: Reference `fig:F5AdmPre' on page 27 undefined on input line 323.
+LaTeX Warning: Reference `fig:F5AdmPre' on page 30 undefined on input line 324.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F4AdmPre-1.pdf Graphic file (type pd
@@ -1013,17 +1067,18 @@ File: Boletin-Orinoquia_files/figure-latex/F5AdmPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F5AdmPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--327
-[][]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[27]
+[30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `fig:F6AdmPre' on page 28 undefined on input line 331.
+[31]
+
+LaTeX Warning: Reference `fig:F6AdmPre' on page 32 undefined on input line 332.
 
 
 
-LaTeX Warning: Reference `fig:F7AdmPre' on page 28 undefined on input line 331.
+LaTeX Warning: Reference `fig:F7AdmPre' on page 32 undefined on input line 332.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F6AdmPre-1.pdf Graphic file (type pd
@@ -1033,40 +1088,42 @@ File: Boletin-Orinoquia_files/figure-latex/F7AdmPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F7AdmPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--335
-[][]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[28] [29]
+[32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `fig:F8AdmPre' on page 30 undefined on input line 346.
+[33]
+
+LaTeX Warning: Reference `fig:F8AdmPre' on page 34 undefined on input line 347.
 
 
+[34]
 File: Boletin-Orinoquia_files/figure-latex/F8AdmPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F8AdmPre-1.pdf>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[30]
+[35]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[31]
+[36]
 File: Boletin-Orinoquia_files/figure-latex/F9AdmPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F9AdmPre-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.12454pt on input line 359.
+LaTeX Warning: Float too large for page by 34.11104pt on input line 360.
 
-[32] [33] [34
+[37] [38]
+Chapter 3.
+[39
 
 ]
-Chapter 3.
-[35]
 File: Boletin-Orinoquia_files/figure-latex/F1MatPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F1MatPre-1.pdf>
-[36]
+[40]
 File: Boletin-Orinoquia_files/figure-latex/F2MatPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F2MatPre-1.pdf>
@@ -1082,7 +1139,6 @@ f)
 File: Boletin-Orinoquia_files/figure-latex/F6MatPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F6MatPre-1.pdf>
-[37]
 File: Boletin-Orinoquia_files/figure-latex/F7MatPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F7MatPre-1.pdf>
@@ -1098,27 +1154,26 @@ df)
 File: Boletin-Orinoquia_files/figure-latex/F11MatPre-1.pdf Graphic file (type p
 df)
 <use Boletin-Orinoquia_files/figure-latex/F11MatPre-1.pdf>
-[38]
+[41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52]
 File: Boletin-Orinoquia_files/figure-latex/F12MatPre-1.pdf Graphic file (type p
 df)
 <use Boletin-Orinoquia_files/figure-latex/F12MatPre-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.04106pt on input line 515.
+LaTeX Warning: Float too large for page by 34.11104pt on input line 516.
 
 File: Boletin-Orinoquia_files/figure-latex/F13MatPre-1.pdf Graphic file (type p
 df)
 <use Boletin-Orinoquia_files/figure-latex/F13MatPre-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.12454pt on input line 526.
+LaTeX Warning: Float too large for page by 34.11104pt on input line 527.
 
-[39]
 File: Boletin-Orinoquia_files/figure-latex/F1MatPreFI-1.pdf Graphic file (type 
 pdf)
 <use Boletin-Orinoquia_files/figure-latex/F1MatPreFI-1.pdf>
+[53] [54] [55] [56]
 File: Boletin-Orinoquia_files/figure-latex/F2MatPreFI-1.pdf Graphic file (type 
 pdf)
 <use Boletin-Orinoquia_files/figure-latex/F2MatPreFI-1.pdf>
-[40]
 File: Boletin-Orinoquia_files/figure-latex/F3MatPreFI-1.pdf Graphic file (type 
 pdf)
 <use Boletin-Orinoquia_files/figure-latex/F3MatPreFI-1.pdf>
@@ -1140,24 +1195,22 @@ pdf)
 File: Boletin-Orinoquia_files/figure-latex/F9MatPreFI-1.pdf Graphic file (type 
 pdf)
 <use Boletin-Orinoquia_files/figure-latex/F9MatPreFI-1.pdf>
-[41]
 File: Boletin-Orinoquia_files/figure-latex/F10MatPreFI-1.pdf Graphic file (type
  pdf)
 <use Boletin-Orinoquia_files/figure-latex/F10MatPreFI-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.14296pt on input line 628.
+LaTeX Warning: Float too large for page by 34.11104pt on input line 629.
 
+[57] [58] [59] [60] [61] [62] [63] [64] [65]
 File: Boletin-Orinoquia_files/figure-latex/F11MatPreFI-1.pdf Graphic file (type
  pdf)
 <use Boletin-Orinoquia_files/figure-latex/F11MatPreFI-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.12454pt on input line 639.
+LaTeX Warning: Float too large for page by 34.11093pt on input line 640.
 
-[42]
 File: Boletin-Orinoquia_files/figure-latex/F1MatPreFM-1.pdf Graphic file (type 
 pdf)
 <use Boletin-Orinoquia_files/figure-latex/F1MatPreFM-1.pdf>
-[43]
 File: Boletin-Orinoquia_files/figure-latex/F2MatPreFM-1.pdf Graphic file (type 
 pdf)
 <use Boletin-Orinoquia_files/figure-latex/F2MatPreFM-1.pdf>
@@ -1170,58 +1223,53 @@ pdf)
 File: Boletin-Orinoquia_files/figure-latex/F5MatPreFM-1.pdf Graphic file (type 
 pdf)
 <use Boletin-Orinoquia_files/figure-latex/F5MatPreFM-1.pdf>
+[66] [67] [68] [69] [70] [71] [72] [73]
 File: Boletin-Orinoquia_files/figure-latex/F6MatPreFM-1.pdf Graphic file (type 
 pdf)
 <use Boletin-Orinoquia_files/figure-latex/F6MatPreFM-1.pdf>
 File: Boletin-Orinoquia_files/figure-latex/F7MatPreFM-1.pdf Graphic file (type 
 pdf)
 <use Boletin-Orinoquia_files/figure-latex/F7MatPreFM-1.pdf>
-[44]
 File: Boletin-Orinoquia_files/figure-latex/F8MatPreFM-1.pdf Graphic file (type 
 pdf)
 <use Boletin-Orinoquia_files/figure-latex/F8MatPreFM-1.pdf>
 File: Boletin-Orinoquia_files/figure-latex/F9MatPreFM-1.pdf Graphic file (type 
 pdf)
 <use Boletin-Orinoquia_files/figure-latex/F9MatPreFM-1.pdf>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[45]
 File: Boletin-Orinoquia_files/figure-latex/F10MatPreFM-1.pdf Graphic file (type
  pdf)
 <use Boletin-Orinoquia_files/figure-latex/F10MatPreFM-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.14296pt on input line 741.
+LaTeX Warning: Float too large for page by 34.11482pt on input line 742.
 
 File: Boletin-Orinoquia_files/figure-latex/F11MatPreFM-1.pdf Graphic file (type
  pdf)
 <use Boletin-Orinoquia_files/figure-latex/F11MatPreFM-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.12454pt on input line 752.
+LaTeX Warning: Float too large for page by 34.11093pt on input line 753.
 
-[46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61]
-[62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72
+[74] [75] [76] [77] [78] [79] [80]
+Chapter 4.
+[81
 
 ]
-Chapter 4.
-[73]
 
-LaTeX Warning: Reference `fig:F1GraPre' on page 74 undefined on input line 790.
+LaTeX Warning: Reference `fig:F1GraPre' on page 82 undefined on input line 791.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F1GraPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F1GraPre-1.pdf>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 7685) has occurred while \output is active []
 
-[74]
+[82]
 
-LaTeX Warning: Reference `fig:F2GraPre' on page 75 undefined on input line 797.
+LaTeX Warning: Reference `fig:F2GraPre' on page 83 undefined on input line 798.
 
 
 
-LaTeX Warning: Reference `fig:F3GraPre' on page 75 undefined on input line 797.
+LaTeX Warning: Reference `fig:F3GraPre' on page 83 undefined on input line 798.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F2GraPre-1.pdf Graphic file (type pd
@@ -1231,20 +1279,18 @@ File: Boletin-Orinoquia_files/figure-latex/F3GraPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F3GraPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 799--801
-[][]
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[75]
+[83]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `fig:F4GraPre' on page 76 undefined on input line 805.
+[84]
+
+LaTeX Warning: Reference `fig:F4GraPre' on page 85 undefined on input line 806.
 
 
 
-LaTeX Warning: Reference `fig:F5GraPre' on page 76 undefined on input line 805.
+LaTeX Warning: Reference `fig:F5GraPre' on page 85 undefined on input line 806.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F4GraPre-1.pdf Graphic file (type pd
@@ -1254,17 +1300,18 @@ File: Boletin-Orinoquia_files/figure-latex/F5GraPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F5GraPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 807--809
-[][]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[76]
+[85]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `fig:F6GraPre' on page 77 undefined on input line 813.
+[86]
+
+LaTeX Warning: Reference `fig:F6GraPre' on page 87 undefined on input line 814.
 
 
 
-LaTeX Warning: Reference `fig:F7GraPre' on page 77 undefined on input line 813.
+LaTeX Warning: Reference `fig:F7GraPre' on page 87 undefined on input line 814.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F6GraPre-1.pdf Graphic file (type pd
@@ -1274,17 +1321,18 @@ File: Boletin-Orinoquia_files/figure-latex/F7GraPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F7GraPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 815--817
-[][]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[77]
+[87]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `fig:F8GraPre' on page 78 undefined on input line 821.
+[88]
+
+LaTeX Warning: Reference `fig:F8GraPre' on page 89 undefined on input line 822.
 
 
 
-LaTeX Warning: Reference `fig:F9GraPre' on page 78 undefined on input line 821.
+LaTeX Warning: Reference `fig:F9GraPre' on page 89 undefined on input line 822.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F8GraPre-1.pdf Graphic file (type pd
@@ -1294,30 +1342,32 @@ File: Boletin-Orinoquia_files/figure-latex/F9GraPre-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F9GraPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 823--825
-[][]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[78] [79]
+[89]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[90]
 File: Boletin-Orinoquia_files/figure-latex/F10GraPre-1.pdf Graphic file (type p
 df)
 <use Boletin-Orinoquia_files/figure-latex/F10GraPre-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.15106pt on input line 842.
+LaTeX Warning: Float too large for page by 34.22433pt on input line 843.
 
+[91]
 File: Boletin-Orinoquia_files/figure-latex/F11GraPre-1.pdf Graphic file (type p
 df)
 <use Boletin-Orinoquia_files/figure-latex/F11GraPre-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.24953pt on input line 853.
+LaTeX Warning: Float too large for page by 34.23285pt on input line 854.
 
-[80] [81] [82]
+[92] [93] [94]
 Chapter 5.
-[83
+[95
 
 ]
 
-LaTeX Warning: Reference `fig:F1DocCar' on page 84 undefined on input line 895.
+LaTeX Warning: Reference `fig:F1DocCar' on page 96 undefined on input line 896.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F1DocCar-1.pdf Graphic file (type pd
@@ -1326,9 +1376,9 @@ f)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[84]
+[96]
 
-LaTeX Warning: Reference `fig:F3DocCar' on page 85 undefined on input line 902.
+LaTeX Warning: Reference `fig:F3DocCar' on page 97 undefined on input line 903.
 
 
 File: Boletin-Orinoquia_files/figure-latex/F2DocCar-1.pdf Graphic file (type pd
@@ -1340,15 +1390,11 @@ f)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[85]
+[97] [98]
 
-LaTeX Warning: Reference `fig:F5DocCar' on page 86 undefined on input line 915.
+LaTeX Warning: Reference `fig:F5DocCar' on page 99 undefined on input line 916.
 
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[86]
 File: Boletin-Orinoquia_files/figure-latex/F4DocCar-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F4DocCar-1.pdf>
@@ -1358,21 +1404,21 @@ f)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[87]
+[99] [100]
 File: Boletin-Orinoquia_files/figure-latex/F6DocCar-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F6DocCar-1.pdf>
 File: Boletin-Orinoquia_files/figure-latex/F7DocCar-1.pdf Graphic file (type pd
 f)
 <use Boletin-Orinoquia_files/figure-latex/F7DocCar-1.pdf>
-[88] [89] [90]
-Chapter 6.
-[91
+[101] [102] [103] [104
 
 ]
+Chapter 6.
+[105]
 
-LaTeX Warning: Reference `fig:F1AdmiCar' on page 92 undefined on input line 986
-.
+LaTeX Warning: Reference `fig:F1AdmiCar' on page 106 undefined on input line 98
+7.
 
 File: Boletin-Orinoquia_files/figure-latex/F1AdmiCar-1.pdf Graphic file (type p
 df)
@@ -1380,10 +1426,10 @@ df)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[92]
+[106]
 
-LaTeX Warning: Reference `fig:F3AdmiCar' on page 93 undefined on input line 993
-.
+LaTeX Warning: Reference `fig:F3AdmiCar' on page 107 undefined on input line 99
+4.
 
 File: Boletin-Orinoquia_files/figure-latex/F2AdmiCar-1.pdf Graphic file (type p
 df)
@@ -1394,15 +1440,11 @@ df)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[93]
+[107] [108]
 
-LaTeX Warning: Reference `fig:F5AdmiCar' on page 94 undefined on input line 100
-6.
+LaTeX Warning: Reference `fig:F5AdmiCar' on page 109 undefined on input line 10
+07.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[94]
 File: Boletin-Orinoquia_files/figure-latex/F4AdmiCar-1.pdf Graphic file (type p
 df)
 <use Boletin-Orinoquia_files/figure-latex/F4AdmiCar-1.pdf>
@@ -1412,42 +1454,36 @@ df)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[95]
+[109] [110]
 File: Boletin-Orinoquia_files/figure-latex/F6AdmiCar-1.pdf Graphic file (type p
 df)
 <use Boletin-Orinoquia_files/figure-latex/F6AdmiCar-1.pdf>
 File: Boletin-Orinoquia_files/figure-latex/F7AdmiCar-1.pdf Graphic file (type p
 df)
 <use Boletin-Orinoquia_files/figure-latex/F7AdmiCar-1.pdf>
-[96] [97] [98]
-Chapter 7.
-[99
+[111] [112] [113] [114
 
-] [100
+]
+Chapter 7.
+[115] [116
 
 ]
 Chapter 8.
 No file Boletin-Orinoquia.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1053.
-[101]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1053.
-(./Boletin-Orinoquia.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1053.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1053.
-
-Package rerunfilecheck Info: File `Boletin-Orinoquia.out' has not changed.
-(rerunfilecheck)             Checksum: CFC8BE1D9B5D22D5947692D9AE54A005;4475.
+[117] (./Boletin-Orinoquia.aux)
 
 LaTeX Warning: There were undefined references.
 
+Package rerunfilecheck Info: File `Boletin-Orinoquia.out' has not changed.
+(rerunfilecheck)             Checksum: CFC8BE1D9B5D22D5947692D9AE54A005;4475.
  ) 
 Here is how much of TeX's memory you used:
- 18872 strings out of 481269
- 353773 string characters out of 5923492
- 779285 words of memory out of 5000000
- 36060 multiletter control sequences out of 15000+600000
- 538797 words of font info for 78 fonts, out of 8000000 for 9000
+ 19024 strings out of 479212
+ 352037 string characters out of 5873009
+ 824564 words of memory out of 5000000
+ 38252 multiletter control sequences out of 15000+600000
+ 409889 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 58i,6n,118p,1129b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,6n,122p,1129b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Boletin-Orinoquia.pdf (101 pages).
+Output written on Boletin-Orinoquia.pdf (117 pages).

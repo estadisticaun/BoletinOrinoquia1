@@ -7,10 +7,6 @@ source("Scrips/Transformacion.R", encoding = 'UTF-8')
 source("Scrips/Visualizacion.R", encoding = 'UTF-8')
 ```
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE, fig.show='hold')
-```
-
 # Programas Académicos {#Prog}
 
 ## Pregrado
